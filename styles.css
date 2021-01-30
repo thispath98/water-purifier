@@ -13,3 +13,25 @@ footer {
 .hide {
     display: none;
 }
+
+.jsPuriFunc {
+    float: right;
+}
+
+.coldActivated {
+    background-color: blue;
+    color: white;
+    outline: none;
+}
+
+.hotActivated {
+    background-color: red;
+    color: white;
+    outline: none;
+}
+
+.continueActivated {
+    background-color: black;
+    color: white;
+    outline: none;
+}
